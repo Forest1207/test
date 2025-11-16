@@ -1,0 +1,166 @@
+{
+ "nodes": [
+ {
+ "id": "Alanine, aspartate and glutamate metabolism",
+"label": "Alanine, aspartate and glutamate metabolism",
+"size": 30.39726,
+"color": "#FF0000",
+"x": 0.4588725,
+"y": 1.638696 
+},
+{
+ "id": "Arginine biosynthesis",
+"label": "Arginine biosynthesis",
+"size": 44.20879,
+"color": "#FF1200",
+"x": 3.237659,
+"y": 0.8477893 
+},
+{
+ "id": "Butanoate metabolism",
+"label": "Butanoate metabolism",
+"size": 28.64103,
+"color": "#FF2400",
+"x": -2.998306,
+"y": 0.640199 
+},
+{
+ "id": "Histidine metabolism",
+"label": "Histidine metabolism",
+"size": 27.03846,
+"color": "#FF3700",
+"x":  2.49761,
+"y": -2.509584 
+},
+{
+ "id": "Glutathione metabolism",
+"label": "Glutathione metabolism",
+"size": 16.69863,
+"color": "#FF4900",
+"x":  1.80739,
+"y":  2.85337 
+},
+{
+ "id": "Nitrogen metabolism",
+"label": "Nitrogen metabolism",
+"size": 35.05128,
+"color": "#FF5B00",
+"x": 2.878596,
+"y": 1.627089 
+},
+{
+ "id": "Taurine and hypotaurine metabolism",
+"label": "Taurine and hypotaurine metabolism",
+"size": 27.03846,
+"color": "#FF6D00",
+"x":  -1.7078,
+"y": -0.6487355 
+},
+{
+ "id": "Nicotinate and nicotinamide metabolism",
+"label": "Nicotinate and nicotinamide metabolism",
+"size": 15.82051,
+"color": "#FF8000",
+"x": 1.743425,
+"y": -1.259441 
+},
+{
+ "id": "Citrate cycle (TCA cycle)",
+"label": "Citrate cycle (TCA cycle)",
+"size": 12.61538,
+"color": "#FF9200",
+"x": -1.334832,
+"y":  2.69933 
+},
+{
+ "id": "Ether lipid metabolism",
+"label": "Ether lipid metabolism",
+"size": 12.61538,
+"color": "#FFA400",
+"x": -1.69676,
+"y": -2.461012 
+},
+{
+ "id": "Pantothenate and CoA biosynthesis",
+"label": "Pantothenate and CoA biosynthesis",
+"size": 12.61538,
+"color": "#FFB600",
+"x": -0.4319588,
+"y": -3.151758 
+},
+{
+ "id": "beta-Alanine metabolism",
+"label": "beta-Alanine metabolism",
+"size": 12.17431,
+"color": "#FFC800",
+"x": 3.388028,
+"y": -0.8628813 
+},
+{
+ "id": "Lipoic acid metabolism",
+"label": "Lipoic acid metabolism",
+"size": 9.849315,
+"color": "#FFDB00",
+"x": -2.051232,
+"y": 2.216263 
+},
+{
+ "id": "Glyoxylate and dicarboxylate metabolism",
+"label": "Glyoxylate and dicarboxylate metabolism",
+"size":  9.21118,
+"color": "#FFED00",
+"x": 0.2623428,
+"y": 3.311043 
+},
+{
+ "id": "Porphyrin metabolism",
+"label": "Porphyrin metabolism",
+"size":  9.21118,
+"color": "#FFFF00",
+"x": 1.410303,
+"y": 0.3139501 
+},
+{
+ "id": "Arginine and proline metabolism",
+"label": "Arginine and proline metabolism",
+"size": 8.347594,
+"color": "#FFFF20",
+"x": -0.04904252,
+"y": -1.21214 
+},
+{
+ "id": "Glycerophospholipid metabolism",
+"label": "Glycerophospholipid metabolism",
+"size": 8.347594,
+"color": "#FFFF60",
+"x": -1.049898,
+"y": 0.7464717 
+},
+{
+ "id": "Biosynthesis of unsaturated fatty acids",
+"label": "Biosynthesis of unsaturated fatty acids",
+"size": 8.347594,
+"color": "#FFFF9F",
+"x": 0.9725725,
+"y": -2.970089 
+},
+{
+ "id": "Arachidonic acid metabolism",
+"label": "Arachidonic acid metabolism",
+"size": 7.366812,
+"color": "#FFFFDF",
+"x": -2.921345,
+"y": -1.324298 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "Arginine biosynthesis",
+"target": "Nitrogen metabolism" 
+},
+{
+ "id": "2",
+"source": "Citrate cycle (TCA cycle)",
+"target": "Lipoic acid metabolism" 
+} ] 
+}

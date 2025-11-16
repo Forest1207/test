@@ -1,0 +1,227 @@
+Asparagine
+Hypotaurine
+5-Oxoproline
+Cysteine
+Aspartate
+Glycerolphosphate
+Glycerophosphocholine
+Glutamate
+Glutamine
+Arachidonic acid
+Quinic acid
+Lysine
+Cystine
+Glyoxylic acid
+Lactate
+Isoleucine
+Pentosidine
+Nicotinuric acid
+α-ketoglutarate
+Pyruvate
+Propionylcarnitine
+Malate
+Oxaloacetate
+N-acetyl-glutamine
+6-Phosphogluconic acid
+N-Acetylneuraminic acid
+Pseudo uridine
+5-Hydroxy-tryptophan
+Uracil
+Aminoacetone
+4-Hydroxy-2-oxoglutaric acid
+Butyrylcarnitine
+3-amino-2-Piperidone
+Homocysteic acid
+Hydroxyacetic acid
+Delta-hydroxylysine
+Choline
+Succinate
+Myristoleic acid
+Octadecanoic acid
+Epinephrine glucuronide
+Hypoxanthine
+3-Pyridylacetic acid
+Uric acid
+Caproic acid
+Parabanic acid
+Glyceric acid, TMS
+5-Hydroxylysine
+3-hydroxyoxyisovaleric acid
+Bilirubin
+2,4-bishydroxybutanoic acid
+Pyrrole-2-carboxylic acid
+Methionine
+Picolinic acid
+L-methionine
+Octanoic acid
+Isovalerylcarnitine
+Cholesterol
+Nicotinic acid
+glycol
+Benzoic acid
+4,8 dimethylnonanoyl carnitine
+Palmitoleic acid
+2-aminobutyric acid
+Glucose 6-phosphate
+Threonine
+2-oxo-4-methylvaleric acid
+4-hydroxy-proline
+Succinyladenosine
+Dehydroascorbic acid
+Glycine
+Sphingosine 1-phosphate
+Benzocaine
+d-Galactose
+2-methyl-butyric acid
+Bisnorcholic acid
+N-Acetyl glucosamine
+Threitol
+D-Fructose
+Palmitoylcarnitine
+3-Hydroxydodecanedioic acid
+Cystathionine
+Proline betaine
+L-phenylalanyl-L-proline
+Phenyllactic acid
+Sorbose
+5-Hydroxyindoleacetic acid
+Oxanilic acid
+Decanoic acid
+3-methyl-2-oxo-butanoic acid
+3-Indolepropionic acid
+Phosphoserine
+3-Phosphoglyceric acid, TMS
+N-acetyl-glycine
+Hexadecanoic acid
+Citric acid
+Hexanoylglycine
+Androstenedione
+Arabinofuranose
+Glycylprolylhydroxyproline
+Urea
+2,3'-Dipyridyl
+Phenylalanine
+Phenylglyoxylic acid
+1H-Indole-3-acetic acid
+Homoanserine
+2-Butenedioic acid
+Ornithine
+Progesterone
+beta-D-Glucopyranuronic acid
+Benzaldehyde
+5-Phosphoribosylamine
+Sphingosine
+Hordenine
+3-hydroxypyridine
+Xylitol
+Glycerylphosphorylethanolamine
+Methylguanidine
+3-Hydroxybutyric acid
+3,4-bishydroxybutanoic acid
+cis-3-Hexenyllactate
+Tiglylglycine
+Glyceraldehyde 3-phosphate
+Nonanoic acid
+N6-Acetyl-L-lysine
+2-amino-6-methylaminohexanoic acid
+2-oxo-3-methyl-pentanoic acid
+Methylcysteine
+d-Xylose
+L-Threonic acid
+Mannitol
+Guanine
+Glucopyranose
+Aminomalonic acid
+18-Hydroxycorticosterone
+Carnosine
+Valine
+Trimethylamine N-oxide
+Thiamine
+Acetylcarnitine
+trans-Hexadec-2-enoyl carnitine
+3, 4 dehydroproline
+Linoleyl carnitine
+6-Dehydrotestosterone glucuronide
+Arginine
+Glycolaldehyde
+Glycerol
+Indoleacrylic acid
+1-Pyrroline-2-carboxylic acid
+L-Lysine
+Guanidineacetic acid
+à-Aminoadipic acid
+2,2'-Bipyridine
+Serine
+Inositol
+Undecanoic acid
+Linoelaidic acid
+5-Acetylamino-6-formylamino-3-methyluracil
+Galactonic acid
+Stearoylcarnitine
+Proline
+4-Deoxypyridoxine
+Decanoylcarnitine
+5-Methoxytryptophol
+Cadaverine
+Erythrose
+Glyceraldehyde
+cis-2-Methylaconitate
+Alloisoleucine
+Myo-Inositol
+Nicotine
+2-Piperidinecarboxylic acid
+Myristic acid
+Heneicosanoic acid
+Isopentenyl pyrophosphate
+oleoylcarnitine
+sarcosine
+N-formyl-glycine
+Epinephrine
+3-Succinoylpyridine
+9,12-Octadecadienoic acid (Z,Z)-
+Cyclohexanone
+L-Homoserine
+Anthranilic acid
+2,3-Diaminopropionic acid
+Beta-alanine
+Dihydroxyacetone phosphate
+Ribitol
+Tetracosahexaenoic acid
+Oxalic acid
+2-hydroxypyridine
+D-Ribofuranose
+Olic acid
+Gluticol
+L-Ornithine
+Hydroxycarbamic acid
+Alanine
+L-Tyrosine
+1,2-dimethylpropanol
+Hexanoylcarnitine
+Octanoylcarnitine
+Maleimide
+3-Aminosalicylic acid, TMS
+6-deoxy-mannose
+Norleucine
+Calcidiol
+2-Hydroxycinnamic acid
+L-Tryptophan
+Dodecanoic acid
+2,3-Dihydroxybutanoic acid
+Citrulline
+N,N-Dimethyl-2-isopropoxyethylamine
+1-hydroxy-1-cyclohexen
+3,6-Dioxa-2,7-disilaoctane, 2,2,4,7,7-pentamethyl-
+Deoxycholic acid
+4-Aminohippuric acid
+á-Amino isobutyric acid
+D-Glucuronic acid
+Tetradecanoylcarnitine
+à-Hydroxyisobutyric acid
+L-Leucine
+Carnitine
+Cyclohexyloxy
+Dodecanoylcarnitine
+Creatine
+Elaidic acid
+o-Tyrosine
